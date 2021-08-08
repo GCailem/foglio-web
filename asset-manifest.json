@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/[https://gcailem.github.io/foglio-web/]/static/css/main.a617e044.chunk.css",
-    "main.js": "/[https://gcailem.github.io/foglio-web/]/static/js/main.b928f25a.chunk.js",
-    "main.js.map": "/[https://gcailem.github.io/foglio-web/]/static/js/main.b928f25a.chunk.js.map",
-    "runtime-main.js": "/[https://gcailem.github.io/foglio-web/]/static/js/runtime-main.d423070b.js",
-    "runtime-main.js.map": "/[https://gcailem.github.io/foglio-web/]/static/js/runtime-main.d423070b.js.map",
-    "static/js/2.2f7a5b66.chunk.js": "/[https://gcailem.github.io/foglio-web/]/static/js/2.2f7a5b66.chunk.js",
-    "static/js/2.2f7a5b66.chunk.js.map": "/[https://gcailem.github.io/foglio-web/]/static/js/2.2f7a5b66.chunk.js.map",
-    "static/js/3.3995ea48.chunk.js": "/[https://gcailem.github.io/foglio-web/]/static/js/3.3995ea48.chunk.js",
-    "static/js/3.3995ea48.chunk.js.map": "/[https://gcailem.github.io/foglio-web/]/static/js/3.3995ea48.chunk.js.map",
-    "index.html": "/[https://gcailem.github.io/foglio-web/]/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/[https://gcailem.github.io/foglio-web/]/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.2f7a5b66.chunk.js.LICENSE.txt": "/[https://gcailem.github.io/foglio-web/]/static/js/2.2f7a5b66.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/[https://gcailem.github.io/foglio-web/]/static/media/logo.6ce24c58.svg"
+    "main.css": "/foglio-web/static/css/main.a617e044.chunk.css",
+    "main.js": "/foglio-web/static/js/main.b928f25a.chunk.js",
+    "main.js.map": "/foglio-web/static/js/main.b928f25a.chunk.js.map",
+    "runtime-main.js": "/foglio-web/static/js/runtime-main.698d4df0.js",
+    "runtime-main.js.map": "/foglio-web/static/js/runtime-main.698d4df0.js.map",
+    "static/js/2.2f7a5b66.chunk.js": "/foglio-web/static/js/2.2f7a5b66.chunk.js",
+    "static/js/2.2f7a5b66.chunk.js.map": "/foglio-web/static/js/2.2f7a5b66.chunk.js.map",
+    "static/js/3.3995ea48.chunk.js": "/foglio-web/static/js/3.3995ea48.chunk.js",
+    "static/js/3.3995ea48.chunk.js.map": "/foglio-web/static/js/3.3995ea48.chunk.js.map",
+    "index.html": "/foglio-web/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/foglio-web/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.2f7a5b66.chunk.js.LICENSE.txt": "/foglio-web/static/js/2.2f7a5b66.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/foglio-web/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d423070b.js",
+    "static/js/runtime-main.698d4df0.js",
     "static/js/2.2f7a5b66.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.b928f25a.chunk.js"
